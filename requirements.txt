@@ -3,3 +3,7 @@ pandas
 requests 
 bs4
 lxml
+openai-clip
+datasets
+torch
+tdqm
